@@ -22,6 +22,23 @@
     "category": "Electronics",
     "description": "Affordable and durable electronic item.",
     "imageUrl": "https://anandp803.github.io/JsonDataServer/sample.png"
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "price": 69.99,
+    "category": "Wooden",
+    "description": "Affordable and durable Wooden item.",
+    "imageUrl": "https://anandp803.github.io/JsonDataServer/sample.png"
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "price": 39.99,
+    "category": "Iron",
+    "description": "Affordable and durable Iron item.",
+    "imageUrl": "https://anandp803.github.io/JsonDataServer/sample.png"
   }
+  
   
 ]
