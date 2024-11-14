@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "price": 29.99,
+    "category": "Electronics",
+    "description": "High-quality electronic gadget.",
+    "imageUrl": "https://example.com/product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "price": 99.99,
+    "category": "Home Appliances",
+    "description": "Useful home appliance for everyday use.",
+    "imageUrl": "https://example.com/product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "price": 49.99,
+    "category": "Electronics",
+    "description": "Affordable and durable electronic item.",
+    "imageUrl": "https://example.com/product3.jpg"
+  }
+  
+]
